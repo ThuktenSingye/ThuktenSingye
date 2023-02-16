@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thuktensingye&label=Profile%20views&color=0e75b6&style=flat" alt="thuktensingye" /> </p>
 
-- 🔭 I’m currently working on **Website Development**
+- 🔭 I’m currently working on **Development Related project**
 
-- 🌱 I’m currently learning **ReactJs,Nodejs,mySQL**
+- 🌱 I’m currently learning **Web Development #ReactJs,Nodejs,mySQL**
 
 - 💬 Ask me about **React**
 
