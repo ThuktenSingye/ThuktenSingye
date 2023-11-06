@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Development Related project**
 
-- 🌱 I’m currently learning **Web Development #ReactJs,Nodejs,mySQL**
+- 🌱 I’m currently learning **Three JS, Web and App Development**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **App & Web Technologies**
 
 - 📫 How to reach me **thuktensingye2163@gmail.com**
 
