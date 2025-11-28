@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thuktensingye&label=Profile%20views&color=0e75b6&style=flat" alt="thuktensingye" /> </p>
 
-- 🔭 I’m currently working on **Development Related project**
+- 🔭 **Currently Working On**: Full-stack development projects, AI-powered applications, and real-world software solutions.
 
-- 🌱 I’m currently learning **Web & App Technologies**
+- 🌱 **Learning**: Modern Web & Mobile App technologies, AI/LLM integration, and scalable backend systems.
 
-- 💬 Ask me about **App & Web Technologies**
+- 💬 **Ask Me About**: Web development, mobile apps, backend development, AI integration, and building practical tech solutions.
 
-- 📫 How to reach me **thuktensingye2163@gmail.com**
+- 📫 **Reach Me At**: thuktensingye2163@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
