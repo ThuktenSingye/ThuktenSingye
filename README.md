@@ -13,6 +13,9 @@
 
 - 📫 **Reach Me At**: thuktensingye2163@gmail.com
 
+### ✨ Open-Source Contributions
+- 🛒 **Solidus Contributor** — added configurable mergeable order finding and configurable coupon code normalization features, along with refactoring, documentation, and tests.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/thuktensingye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thuktensingye" height="30" width="40" /></a>
